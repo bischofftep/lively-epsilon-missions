@@ -5,6 +5,7 @@
 !.luacov
 docs/_build
 lively_epsilon
+_build
 
 scenario_*.lua
 !scenario_01_krepios.lua
